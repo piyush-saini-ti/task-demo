@@ -1,0 +1,62 @@
+[
+  {
+    "id": 101,
+    "name": "Mignonne",
+    "salary": 56000,
+    "status": "SINGLE"
+  },
+  {
+    "id": 2,
+    "name": "Francklin",
+    "salary": 59000,
+    "status": "MARRIED"
+  },
+  {
+    "id": 323,
+    "name": "Catherine",
+    "salary": 75000,
+    "status": "MARRIED"
+  },
+  {
+    "id": 9,
+    "name": "Ulrike",
+    "salary": 80000,
+    "status": "MARRIED"
+  },
+  {
+    "id": 5,
+    "name": "Dalston",
+    "salary": 40000,
+    "status": "MARRIED"
+  },
+  {
+    "id": 60,
+    "name": "Francklin",
+    "salary": 17000,
+    "status": "SINGLE"
+  },
+  {
+    "id": 47,
+    "name": "Danica",
+    "salary": 77000,
+    "status": "MARRIED"
+  },
+  {
+    "id": 80,
+    "name": "Janaya",
+    "salary": 20000,
+    "status": "MARRIED"
+  },
+  {
+    "id": 999,
+    "name": "Bertrando",
+    "salary": 93000,
+    "status": "SINGLE"
+  },
+  {
+    "id": 105,
+    "name": "Kyle",
+    "salary": 25000,
+    "status": "SINGLE"
+  }
+  ]
